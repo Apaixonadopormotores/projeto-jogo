@@ -10,13 +10,12 @@
             VerticalOptions="Center">
 
             <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
+                Source="https://th.bing.com/th/id/OIG3.gM8dLyrn7W.Wt4j0kCMc?pid=ImgGn"
+                HeightRequest="450"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, World!"
+                Text="Bem vindo(a) ao Madmax Armagedon"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
@@ -24,13 +23,14 @@
             <Label
                 Text="Welcome to .NET Multi-platform App UI"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                SemanticProperties.Description=""
                 FontSize="18"
                 HorizontalOptions="Center" />
 
             <Button
+           
                 x:Name="CounterBtn"
-                Text="Click me"
+                Text="Jogar"
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
