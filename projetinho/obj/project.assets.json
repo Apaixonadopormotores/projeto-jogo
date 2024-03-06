@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\projeto-jogo\\projeto-jogo\\projetinho\\projetinho.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\projeto-jogo\\projetinho\\projetinho.csproj",
       "projectName": "projetinho",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\projeto-jogo\\projeto-jogo\\projetinho\\projetinho.csproj",
+      "projectPath": "C:\\Users\\Aluno\\projeto-jogo\\projetinho\\projetinho.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\projeto-jogo\\projeto-jogo\\projetinho\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\projeto-jogo\\projetinho\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

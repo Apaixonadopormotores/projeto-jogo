@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3gIttlT4/ynU5sQZlr2zKVBtfCrItSuPV+SFy+7qosXEBH9BMPXDiRgU+A6wvh0h/98fz9lTb50/QPeO/ctug==",
+  "dgSpecHash": "FM2+aWICWacAWQdM6wKzryc1aipCKO8NG5Vgs6BkJ7ZxygHuUZuyQgwSkN0rhYQw9XcK6ghB7dHjB2Dryth59Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\projeto-jogo\\projeto-jogo\\projetinho\\projetinho.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\projeto-jogo\\projetinho\\projetinho.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.1.23419.4\\microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
