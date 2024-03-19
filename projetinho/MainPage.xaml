@@ -21,7 +21,7 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Welcome to .NET Multi-platform App UI"
+                Text="Seja bem vindo"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description=""
                 FontSize="18"

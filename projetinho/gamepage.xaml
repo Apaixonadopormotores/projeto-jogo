@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TextBasedRPG.GamePage"
+             x:Class="projetinho.gamepage"
              BackgroundColor="Black"
              Shell.NavBarIsVisible="false">
               
               
-              <Grid>
+    <Grid>
 
-             <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="60"/>
-            </Grid.RowDefinitions>
-
-               
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>               
         
         <Frame BackgroundColor="#87786f"
            CornerRadius="20"
            Margin="5,10"
            VerticalOptions="Fill"
            Grid.Row="0">
-        </Frame>
+         
         
             <Label x:Name="labelTexto"
                 TextColor="White"
@@ -32,7 +29,7 @@
                 HorizontalOptions="Center"
                 HorizontalTextAlignment="Center"
                 VerticalOptions="Center"
-                FontSize="20"
+                FontSize="20"/>
             
              
                     <Button x:Name="   VerMais"
@@ -88,8 +85,8 @@
                 FontFamily="CachetStdBold"
                 Grid.Row="4"/>
             
-            
-                <Frame x:Name="frameGameOver"
+            </Frame>
+            <Frame x:Name="frameGameOver"
             IsVisible="false"
             BorderColor="#801208"
             BackgroundColor="#801208"
@@ -117,9 +114,7 @@
                     CornerRadius="10"
                     FontSize="16"
                     HorizontalOptions="Fill"
-                    FontFamily="CachetStdBold"/>
-      
-        <VerticalStackLayout>  
-      </Frame>
+                    FontFamily="CachetStdBold"/>    
+         </Frame>
     </Grid>
 </ContentPage>
